@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Clases de Introducción a la Ingeniería de Software
 permalink: /about/
 ---
 
