@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Clases
-permalink: /clases/
+permalink: /about/
 ---
 
 ___Unidad 1: Introducción a la Ingeniería de Sodtware___
