@@ -1,7 +1,7 @@
 ---
 layout: page2
 title: Clases de Introducción a la Ingeniería de Software
-permalink: /about 2/
+permalink: /about2/
 ---
 
 ___Unidad 2: Proceso del Software___
