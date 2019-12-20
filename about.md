@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Clases
+title: About
 permalink: /about/
 ---
 
