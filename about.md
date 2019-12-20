@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Clases
+permalink: /clases/
 ---
 
-Some information about you!
+
 
 ### More Information
 
