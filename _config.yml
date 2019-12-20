@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: JOEL ANDRES ALEJANDRO SALINAS
+name: IVAN DANIEL BASURTO DELGADO
 
 # Short bio or description (displayed in the header)
-description: INTRODUCCION A LA INGENIERIA EN SOFTWARE
+description: PROYECTO DE PARCIAL DE INTRODUCCION A LA INGENIERIA EN SOFTWARE
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars2.githubusercontent.com/u/57640610?s=460&v=4
+avatar: https://pbs.twimg.com/profile_images/592006645988851712/TfeZ3Pph_400x400.jpg
 
 #
 # Flags below are optional
@@ -18,11 +18,11 @@ avatar: https://avatars2.githubusercontent.com/u/57640610?s=460&v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: ivan.basurtod@ug.edu.ec
+  facebook: http://facebook.com/ivancito.daniel240
   flickr:
   github: 
-  instagram:
+  instagram: ivan_daniel240
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
