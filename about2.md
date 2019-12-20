@@ -59,7 +59,7 @@ __Importancia del Proceso Software Un proceso software debe especificar:__
 
 __Modelos de Procesos de Software__
 
-<center><img src="https://ingsotfwarekarlacevallos.files.wordpress.com/2015/04/21.png"<></center>
+<center><img src="https://ingsotfwarekarlacevallos.files.wordpress.com/2015/04/21.png"></center>
 
 __Procesos Ágiles__
 
