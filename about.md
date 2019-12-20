@@ -7,6 +7,7 @@ permalink: /clases/
 ___Unidad 1: Introducción a la Ingeniería de Sodtware___
 
 __Definición de IS:__ 
+
 La ingeniería de software es una aplicación práctica del conocimiento científico para proveer metodologías y técnicas que ayuden a desarrollar sistemas de software a tiempo, y a su vez que aseguren que el desarrollador cumpla con las expectativas de calidad y permanezca dentro del presupuesto.
 
 __Objetivos de la IS__
@@ -56,7 +57,7 @@ __Tipos de mantenimiento.__
 
 _Correctivo._ El programa no funciona correctamente, hay que modificarlo.
 
-_Perfectivo._Se modifica el programa para obtener más eficiencia o nuevas funcionalidades no especificadas en la definición del sistema.
+_Perfectivo._ Se modifica el programa para obtener más eficiencia o nuevas funcionalidades no especificadas en la definición del sistema.
 
 _Adaptativo._ Adaptar el programa a los cambios en su entorno (cambio de SO, de CPU, de legislación.
 
