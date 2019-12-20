@@ -1,24 +1,35 @@
-
+#
+# This file contains configuration flags to customize your site
+#
 
 # Name of your site (displayed in the header)
-name: Ivan Basurto
+name: JOEL ANDRES ALEJANDRO SALINAS
 
 # Short bio or description (displayed in the header)
-description: Proyecto de Parcial de Introduccion a la Ingenieria de Software
+description: INTRODUCCION A LA INGENIERIA EN SOFTWARE
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars3.githubusercontent.com/u/59091113?s=400&u=b7f6b79208322de4e3262abe3660310cefc41dc3&v=4
+avatar: https://avatars2.githubusercontent.com/u/57640610?s=460&v=4
 
 #
 # Flags below are optional
 #
 
 # Includes an icon in the footer for each username you enter
-
-  email: ivan.basurtod@ug.edu.ec
-  instagram: ivan_daniel240
-  twitter: ivan_daniel240
-  facebook: http://facebook.com/ivancito.daniel240
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: 
+  instagram:
+  linkedin:
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: 
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
